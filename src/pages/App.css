@@ -1,0 +1,10 @@
+body{
+  background-color: rgb(62, 62, 169);
+
+}
+
+.card-wrapper{
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}

@@ -1,0 +1,14 @@
+.input-container{
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.input-container input{
+    padding: 1rem;
+    background-color: darkblue;
+    color: antiquewhite;
+    font-size: 1rem;
+    border: none;
+    border-radius: 5px;
+}

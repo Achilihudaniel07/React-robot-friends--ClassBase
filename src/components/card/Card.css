@@ -1,0 +1,28 @@
+.card-container{
+    width: 100%;
+    background-color: darkblue;
+    max-width: 15rem;
+    text-align: center;
+    margin: 1rem;
+    padding: 1rem;
+    border-radius: 20px;
+    transform: translateZ(0);
+    transition: transform .25s ease-out;
+}
+
+.card-container:hover{
+    transform: scale(1.05);
+}
+
+.cardcontainer h4{
+    margin-bottom: 0;
+}
+
+.cardcontainer p{
+    margin-bottom: 0;
+    margin-bottom: 0.5rem;
+}
+img{
+    width: 200px;
+    height: 200px;
+}
