@@ -2,6 +2,7 @@ import SearchBox from '../components/searchBox/SearchBox';
 import Cardlist from '../components/cardList/CardList';
 import "./App.css";
 import React from 'react';
+import Footer from '../components/footer/Footer'
 import ErrorHandler from './ErrorHandler';
 
 
@@ -62,7 +63,7 @@ class App extends React.Component{
         
         </ErrorHandler> */}
 
-
+      <Footer/>
 
       </div>
     );
